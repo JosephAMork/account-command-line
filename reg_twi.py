@@ -1,9 +1,9 @@
 
 # this tool for create account on twitter or any web page 
 # we will manage account from command line not GUI
-#this simple example
-
-
+# FB Group: Kali linux and blackarch tools
+# edit by Joseph A Morcos
+# python 3.7 
 import requests,urllib,urllib2
 # next step we will update this script to store all values in parser for dynamic thing 
 IP_USERNAME='signup-user-name'    # depend on input name
